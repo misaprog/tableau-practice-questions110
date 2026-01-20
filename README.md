@@ -117,7 +117,8 @@ MAKEDATE(
 
 #### 練習問題4
 
-Coffee Quality Instituteが収集したコーヒーの品質データを使用して、原産国ごとの品質評価を一覧表で示す次のようなビジュアル表現を作成しましょう。  
+Coffee Quality Instituteが収集したコーヒーの品質データを使用して、原産国ごとの品質評価を一覧表で示す次のようなビジュアル表現を作成しましょう。 
+
 ・「Country.Of.Origin」（原産国）と「Region」（地域）ごとに「Acidity」（酸度）、「Aftertaste」（後味）、「Aroma」（香り）、「Balance」（バランス）、「Body」（ボディ）、「Flavor」（味）、の６項目について、値の平均をクロス集計で表示。    
 ・値の平均を５段階で色分け。  
 ・１０件以上のレビューがある「Region」のみ表示。  
